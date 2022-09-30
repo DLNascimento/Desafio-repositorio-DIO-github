@@ -1,2 +1,5 @@
-# Desafio-repositorio-DIO-github
-Projeto proposto pela plataforma de cursos online Dio para criação do primeiro repositório.
+# Desafio de projeto sobre Git/Github da DIO.
+Repositório criado para o desafio de projeto.
+
+## Links úteis
+[Sintaxe Básica para Markdown](https://www.markdownguide.org/basic-syntax/)
