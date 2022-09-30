@@ -1,0 +1,40 @@
+1 - Git Clone
+• git clone <link-do-repositório-o-qual-deseja-clonar>
+
+2 - Git Branch
+
+Como criar uma branch
+• git branch <nome-da-branch>
+
+Como ver as branches:
+• git branch ou git branch --list
+
+Como excluir uma branch:
+• git branch -d <nome-da-branch>
+
+3 - Git Checkout
+• git checkout <nome-da-branch>
+
+4 - Git Status
+• git status
+
+5 - Git add
+Para adicionar um único arquivo
+• git add <nome-do-arquivo>
+
+Para adicionar todos os arquivos
+• git add . ou git add * ou git add -A
+
+6 - Git Commit
+• git commit -m "mensagem do commit"
+
+7 - Git Push
+• git push <repositório-remoto> <nome-da-branch>
+
+Entretanto, se a sua branch foi recém-criada, também é preciso fazer o upload da branch com o seguinte comando:
+• git push --set upstream <repositório-remoto> <nome-da-branch> ou
+• git push -u origin <nome-da-branch>
+
+8 - Git Pull
+• git pull <repositorio-remoto>
+
